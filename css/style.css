@@ -135,7 +135,7 @@
   border-top-right-radius: 50% 10%;
   border-bottom-left-radius: 50% 40%;
   border-bottom-right-radius: 50% 40%;
-  background-color: rgb(140 36 122);
+  background-color: rgb(244 119 222 / 98%);
   box-shadow: 1px -1px 1px 0 #6f1232;
   transform: rotate(32deg) scale(1.6, 1.6);
 }
@@ -175,7 +175,7 @@
   border-top-right-radius: 50% 50%;
   border-bottom-left-radius: 50% 50%;
   border-bottom-right-radius: 50% 10%;
-  background-color: rgb(140 36 122);
+  background-color: rgb(244 119 222 / 98%);
   transform: rotate(35deg) scale(1.2, 1);
   box-shadow: 1px -1px 1px 0 #6f1232;
   opacity: 0.9;
@@ -190,7 +190,7 @@
   border-top-right-radius: 10% 10%;
   border-bottom-left-radius: 10% 10%;
   border-bottom-right-radius: 50% 50%;
-  background-color: rgb(140 36 122);
+  background-color: rgb(244 119 222 / 98%);
   transform: rotate(25deg) scale(1, 1.05) skew(-8deg);
   box-shadow: 1px -1px 1px 0 #6f1232;
   opacity: 0.9;
@@ -205,12 +205,12 @@
   border-top-right-radius: 50% 50%;
   border-bottom-left-radius: 50% 50%;
   border-bottom-right-radius: 50% 10%;
-  background-color: rgb(140 36 122);
+  background-color: rgb(244 119 222 / 98%);
   transform: rotate(30deg) scale(1.1, 0.9) skew(10deg);
   box-shadow: 1px -1px 1px 0 #a53d60;
   opacity: 0.9;
 }
-#castle .shade-wrap #flower-wrap rgb(140 36 122) {
+#castle .shade-wrap #flower-wrap rgb(244 119 222 / 98%) {
   position: absolute;
   left: 105px;
   top: 207px;
@@ -235,7 +235,7 @@
   border-top-right-radius: 10% 10%;
   border-bottom-left-radius: 10% 10%;
   border-bottom-right-radius: 50% 50%;
-  background-color: rgb(140 36 122) ;
+  background-color: rgb(244 119 222 / 98%) ;
   transform: rotate(32deg) scale(0.9, 0.95) skew(-18deg);
   box-shadow: 1px -1px 1px 0 #a53d60;
   opacity: 0.9;
