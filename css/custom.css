@@ -1,0 +1,42 @@
+#song {
+  background-color: aqua;
+  position: absolute;
+  top: 0;
+  margin-top: 25px;
+  left: 95vh;
+  padding: 10px 20px;
+  border-radius: 100%;
+  z-index: 1;
+}
+
+#song:hover {
+  background-color: aquamarine;
+}
+
+@media (max-width: 1024px) {
+  #song {
+    display: none;
+  }
+}
+
+@media (max-width: 1300px) {
+  .headText {
+    font-size: 20px;
+    margin-top: 50vh;
+  }
+}
+
+.headText {
+  z-index: 1;
+  background-color: red;
+  width: 15%;
+  margin: auto;
+  background-color: aqua;
+  border-radius: 100%;
+  padding: 10px 20px;
+  margin-top: 5vh;
+}
+
+.headText:hover {
+  background-color: aquamarine;
+}
